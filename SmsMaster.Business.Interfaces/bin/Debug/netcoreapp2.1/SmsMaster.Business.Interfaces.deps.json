@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "SmsMaster.Business.Interfaces/1.0.0": {
+        "dependencies": {
+          "SmsMaster.Model": "1.0.0"
+        },
+        "runtime": {
+          "SmsMaster.Business.Interfaces.dll": {}
+        }
+      },
+      "SmsMaster.Model/1.0.0": {
+        "runtime": {
+          "SmsMaster.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmsMaster.Business.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmsMaster.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

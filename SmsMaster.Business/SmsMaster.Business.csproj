@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmsMaster.Business.Interfaces\SmsMaster.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\SmsMaster.Data.Interfaces\SmsMaster.Data.Interfaces.csproj" />
+    <ProjectReference Include="..\SmsMaster.Model\SmsMaster.Model.csproj" />
+  </ItemGroup>
+
+</Project>

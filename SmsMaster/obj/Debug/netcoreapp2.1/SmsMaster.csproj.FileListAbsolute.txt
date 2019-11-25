@@ -1,0 +1,81 @@
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.deps.json
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.runtimeconfig.json
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.runtimeconfig.dev.json
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csprojAssemblyReference.cache
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csproj.CoreCompileInputs.cache
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorAssemblyInfo.cache
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorAssemblyInfo.cs
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.AssemblyInfoInputs.cache
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.AssemblyInfo.cs
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorTargetAssemblyInfo.cache
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Model.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Model.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csproj.CopyComplete
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.Interfaces.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.Interfaces.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.Interfaces.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.Interfaces.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.deps.json
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.runtimeconfig.json
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.runtimeconfig.dev.json
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.Interfaces.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.Interfaces.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Model.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.Interfaces.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.Interfaces.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Model.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csprojAssemblyReference.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csproj.CoreCompileInputs.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorAssemblyInfo.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorAssemblyInfo.cs
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.AssemblyInfoInputs.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.AssemblyInfo.cs
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorTargetAssemblyInfo.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csproj.CopyComplete
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (2)\SmsMaster\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.deps.json
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.runtimeconfig.json
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.runtimeconfig.dev.json
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.Interfaces.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.Interfaces.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Model.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.Interfaces.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Business.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Data.Interfaces.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\bin\Debug\netcoreapp2.1\SmsMaster.Model.pdb
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csprojAssemblyReference.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csproj.CoreCompileInputs.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorAssemblyInfo.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorAssemblyInfo.cs
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.AssemblyInfoInputs.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.AssemblyInfo.cs
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.RazorTargetAssemblyInfo.cache
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.csproj.CopyComplete
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.dll
+C:\Users\zarko.milovanovic\Desktop\New folder (3)\SmsMaster\obj\Debug\netcoreapp2.1\SmsMaster.pdb

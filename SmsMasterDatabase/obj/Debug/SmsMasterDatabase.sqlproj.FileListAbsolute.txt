@@ -1,0 +1,6 @@
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMasterDatabase\bin\Debug\SmsMasterDatabase.dacpac
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMasterDatabase\bin\Debug\SmsMasterDatabase.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMasterDatabase\bin\Debug\SmsMasterDatabase.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMasterDatabase\obj\Debug\SmsMasterDatabase.dll
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMasterDatabase\obj\Debug\SmsMasterDatabase.pdb
+C:\Users\zarko.milovanovic\source\repos\SmsMaster\SmsMasterDatabase\obj\Debug\SmsMasterDatabase.sqlprojAssemblyReference.cache
